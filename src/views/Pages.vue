@@ -1,8 +1,7 @@
 <template>
-  <div class="about">
+  <div>
     <Nav/>
-    <h1>Sobre</h1>
-   
+    <h1>Paginas</h1>
   </div>
 </template>
 <script>
@@ -13,6 +12,7 @@ export default {
   }
 }
 </script>
+
 <style scoped>
   h1 {
     color: white;

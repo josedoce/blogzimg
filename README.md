@@ -1,4 +1,7 @@
-# web
+# Blogzimg
+Aplicação feita com **vue** para fixar na cuca os conhecimentos :P
+
+<img src="./screenshot.png">
 
 ## Project setup
 ```
